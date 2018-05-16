@@ -1,0 +1,12 @@
+"name": "Han"
+"description": "Working Bot",
+"version": "2.21.2",
+"main"; "credentials",
+"scripts": {
+  "start": "Han.js"
+  },
+  "dependencies": {
+     "discord.js": "11.1.0",
+     "request": "2.18.0"
+   }
+ }
